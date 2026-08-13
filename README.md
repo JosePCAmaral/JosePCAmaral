@@ -75,7 +75,7 @@ Gosto de entender o problema por trás do requisito antes de escrever a primeira
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JosePCAmaral&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JosePCAmaral&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosePCAmaral&layout=compact&theme=tokyonight" />
 </p>
 
